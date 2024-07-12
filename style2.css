@@ -1,0 +1,152 @@
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+/* font-family: "Work Sans", sans-serif; */
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.se0{
+    display: flex;
+    float: right;
+    
+   
+}
+.bu0{
+    display: flex;
+    gap: 1000px;
+    margin-left: 6%;
+    text-align: right;
+    font-size: 20px;
+    
+    
+    
+}
+.bu{
+    
+    background-color:white;
+ 
+     border-color: black;
+     height: 60px;
+   
+     margin: 2%;
+     padding: 1%;
+     border-radius:4px;
+    font-size: 20px;
+    
+    
+}
+.se1{
+    background-image: url(assets/Hero-bg.png);
+    height: 600px;
+}
+
+.se2{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 2%;
+}
+
+.head1{
+    text-align: center;
+    font-size: 4.5rem;
+    
+}
+.pra1{
+    font-size:12 px;
+    font-weight: 600;
+    line-height: 16px;
+    letter-spacing: 0%;
+    text-align: center;
+    border-radius: 13px;
+    
+}
+.butt2{
+    padding: 21px 32px 21px 25px;
+    color: rgb(255, 255, 255);
+    font-family: Work Sans;
+    font-size:12 px;
+    font-weight: 600;
+    line-height: 16px;
+    letter-spacing: 0%;
+    text-align: center;
+  
+ 
+    
+
+
+    background: rgb(10, 11, 10);
+    border: none;
+}
+.button_content{
+    text-align:center;
+    margin: 2%;
+    padding: 2%;
+}
+#cardbox{
+    width: 884px;
+    margin: 50px auto;
+}
+
+.Imag{
+    float: right;  
+}
+.tittle{
+    color: rgb(10, 11, 10);
+    font-size: 28px;
+    line-height:32px;
+    
+    letter-spacing: 0%;
+    text-align: center;
+    margin: 2%;
+    padding: 2%;
+
+
+}
+.subtittle{
+    color: rgb(10, 11, 10);
+    font-size: 28px;
+    line-height:32px;
+    
+    letter-spacing: 0%;
+    text-align: center;
+    margin: 2%;
+    padding: 2%;
+    opacity: 0.6;
+
+}
+.cardbox2{
+   
+    margin: 2px;
+}
+ .h3{
+    font-size:28px ;
+    padding: 1%;
+ }
+ .p1{
+    font-size: 20px;
+    padding: 1%;
+    opacity: 0.6;
+
+ }
+ .butt3{
+    background-color:white;
+ 
+     border-color: black;
+     height: 60px;
+   
+     margin: 2%;
+     padding: 1%;
+     border-radius:4px;
+    font-size: 20px;
+ }
+ #cardbox3{
+    width: 884px;
+    margin: 50px auto;
+ }
+
+ .img2{
+    float:left;  
+ }
+    
